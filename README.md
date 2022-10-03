@@ -17,20 +17,21 @@ I will be glad to your suggestions :blush::green_heart:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :  
+### :fire: My Stats : 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladzimirfilipau&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uladzimirfilipau&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladzimirfilipau&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### :love_letter: Contact Me :  
 <div id="badges">
-  <a href="https://www.linkedin.com/in/filipau-uladzimir/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/uladzimir_filipau">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:uladzimirfilipau@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-      <a href="https://t.me/uladzimir_filipau">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://www.linkedin.com/in/filipau-uladzimir/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
