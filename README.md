@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me : 
 I am a frontend developer.  
 I am currently looking for a job.  
-I will be glad to your suggestions :blush::green_heart:
+I will be glad to your suggestions :green_heart::blush::green_heart:
 
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
