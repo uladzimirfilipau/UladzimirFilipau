@@ -24,7 +24,7 @@ I will be glad to your suggestions :green_heart::blush::green_heart:
 
 ### :love_letter: Contact Me :  
 <div id="badges">
-  <a href="https://t.me/uladzimir_filipau">
+  <a href="https://t.me/maxcaxap">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:uladzimirfilipau@gmail.com">
