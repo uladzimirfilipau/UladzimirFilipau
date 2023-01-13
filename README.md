@@ -19,8 +19,8 @@ I will be glad to your suggestions :green_heart::blush::green_heart:
 </div>
 
 ### :fire: My Stats : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladzimirfilipau&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uladzimirfilipau&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladzimirfilipau&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uladzimirfilipau&hide=stars,contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### :love_letter: Contact Me :  
 <div id="badges">
