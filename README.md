@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Vova 👋</h1>
 
 ### :woman_technologist: About Me : 
-I am a frontend developer.  
-I am currently looking for a job.  
-I will be glad to your suggestions :green_heart::blush::green_heart:
+- Frontend developer (React)
+- Looking for a job
+- I will be glad to your suggestions :green_heart::blush::green_heart:
 
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
