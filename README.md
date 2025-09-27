@@ -2,8 +2,6 @@
 
 ### :woman_technologist: About Me : 
 - Frontend developer (React)
-- Looking for a job
-- I will be glad to your suggestions :green_heart::blush::green_heart:
 
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
